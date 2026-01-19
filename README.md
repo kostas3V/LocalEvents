@@ -4,7 +4,7 @@
 
 1. Open the project by double-clicking `LocalEvents.xcodeproj`
 2. Make sure you are using Xcode Version 26.2
-3. Select an iPhone Simulator (iPhone 17)
+3. Select an iPhone Simulator (iPhone 17 Pro)
 
 ## Assumptions
 - URL: https://dev.loqiva.com/public/service/phonejson/eventslist is incorrect. The proper URL is:
